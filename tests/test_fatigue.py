@@ -1,4 +1,5 @@
-"""The differentiator, asserted against the generator's PLANTED half-lives.
+"""Recovery of the generator's planted half-lives by the frequency model,
+and failure of the calendar model on the same data.
 
 Thresholds are derived, not tuned:
   * test_fitting measured the curvature SE at ~0.75 of the true sampling
